@@ -1,0 +1,11 @@
+1.Gen sayýsý Fonksiyon sayýsýna gmre Belirlenmekte
+ Örn:Zakharov=10,Beale=2,Easom:2,Michalewicz2 =2,Michalewicz5=5,Michalewicz10=10 gen alýr.
+uygunluk degerleri ise her class'ýn içerisinde ayrý ayrý belirtirmiþtir.
+2.Populasyon sayýsý se kromozomumun sayýsýný belirler
+3.Fonksiyon Genetik algoritma için populasyondaki kromozomun sayýsýnýn belirlenmesidir.
+Sayý büyünce iþlem süresi ve verimlilik düþer.
+4.Mutosyon Yerel Minimuma takýlmaktan kurtarmak için belirlenir.
+5.Mutosyon kaysayýsýda kromozomun uygunlugunu deðiþtirlirken girilecek degiþim degerdir.
+6.Çarprazlama için þeçilecek olan bireylerin þeçilmesininde belirlenir.Karýþýk ise birey seçimi her iterasyonda
+random olarak belirlenir.
+7.Ýterasyon sayýsý ne kadar büyükse o kadar iþlem iyi sonuç verir.

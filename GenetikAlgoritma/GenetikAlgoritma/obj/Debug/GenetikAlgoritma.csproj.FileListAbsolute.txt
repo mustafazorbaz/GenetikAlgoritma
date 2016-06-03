@@ -1,0 +1,9 @@
+c:\users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.Cache
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\mustafa\documents\visual studio 2013\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
